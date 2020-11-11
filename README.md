@@ -1,3 +1,5 @@
+BTW I no longer code in Python. C++ FOREVER!
+
 # Portraiterator
 Python OpenCV program that creates a mosaic image using many other images.
 
